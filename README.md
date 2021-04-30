@@ -33,5 +33,5 @@
 <br />
 
 [twitter]: https://twitter.com/Shuvasishbd
-[instagram]: https://www.facebook.com/shuvasishbd
+[facebook]: https://www.facebook.com/shuvasishbd
 [linkedin]: https://www.linkedin.com/in/shuvasish-talukder-shuvo/
