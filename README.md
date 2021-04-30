@@ -1,4 +1,4 @@
-### Hi there, I'm Shuvasish - aka [codeSTACKr][website] 👋
+### Hi there, I'm Shuvasish 👋
 
 ## I'm a front end web Developer!!
 
